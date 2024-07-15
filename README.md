@@ -5,3 +5,9 @@
 
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=909
 
+## 2.参考：
+https://www.aeon-toolkit.org/en/stable/
+
+## 3.方法：
+HIVE-CODE v2
+time-series feature & ML stacking
